@@ -1,0 +1,2 @@
+<?php/** * Database config of the System. * @author LW * @since  0.1.1 * @see     */
+return array(	'DB_HOST'   => 'localhost',	'DB_NAME'   => 'dbname',	'DB_USER'   => 'dbuser',	'DB_PWD'    => 'dbpwd',	'DB_PORT'   => '3306',	'DB_PREFIX' => 'pre_',);?>
